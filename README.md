@@ -18,8 +18,7 @@ Amazon Reviews Data Processing using Apache Spark and Databricks. The project in
 ## Null Values After Cleaning
 ![Null After](screenshots/5_null_after.png)
 
-## Final Data Preview
-![Final Preview](screenshots/6_final_preview.png)
+![Final Preview](screenshots/6_final_previews.png)
 
 ## Parquet Output
 ![Parquet Output](screenshots/7_parquet_output.png)
